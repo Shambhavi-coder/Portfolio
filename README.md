@@ -126,18 +126,4 @@ I'm **Shambhavi**, a Computer Engineering student passionate about building inte
 
 ---
 
-## 🤝 **Connect with Me**
 
-* [LinkedIn](https://www.linkedin.com/in/your-link/)
-* [GitHub](https://github.com/Shambhavi-coder)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-## 📢 **Contributions**
-
-This is a personal project, but feedback, suggestions, and inspiration are always welcome!
-
----
-
-**Want me to generate this as a ready `.md` file for your project?** Just say "generate file".
