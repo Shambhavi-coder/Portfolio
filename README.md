@@ -86,8 +86,8 @@ tailwind.config.ts              # Tailwind customizations for animations and col
 
 ## 🔗 **Live Demo**
 
-👉 [View My Portfolio Live](https://your-deployed-link.netlify.app)
-*(Replace with your actual deployment link)*
+👉 [View My Portfolio Live](https://shambhavisportfolio.netlify.app/)
+
 
 ---
 
